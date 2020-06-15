@@ -1,0 +1,36 @@
+button{
+	margin-left: 2%;
+}
+
+h1{
+	
+	color: blue;
+	
+}
+
+li{
+	margin-bottom: 1rem;
+	justify-content: space-between;
+	
+}
+input{
+	height : 30px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+#click{
+	width : 100px;
+	height : 30px;
+	font-size: 1rem;
+}
+
+i{
+	margin-left: 1.5rem;
+	
+}
+
+
+
